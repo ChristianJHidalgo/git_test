@@ -1,0 +1,2 @@
+Oh Em Gee I am learning Git version control on a CMD line. 
+I feels like a hacker.
